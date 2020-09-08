@@ -1,0 +1,18 @@
+=====> shows all the files in the specified folder
+python pipeline.py C:\Users\Tressa Francis\Documents\sample 
+
+=====> execute only the mentioned file from the folder
+        eg: python pipeline.py "C:\Users\Tressa Francis\Documents\sample" -n p1.py     
+	
+=====> get files from folder in reverse order
+	eg: python pipeline.py "C:\Users\Tressa Francis\Documents\sample" -r
+
+=====> get help messages
+	eg: python pipeline.py "C:\Users\Tressa Francis\Documents\sample" -h
+
+======> copy output to the specified file( here i have copied into endofass.txt
+	eg: python pipeline.py "C:\Users\Tressa Francis\Documents\sample" -o  endofass.txt
+
+
+
+
